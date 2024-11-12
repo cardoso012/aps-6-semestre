@@ -6,8 +6,8 @@ Para executar este projeto, basta seguir os comandos e passos abaixo:
 
 Primeiro faça o clone do projeto:
 ```bash
-    git clone url
-    cd nome_pasta
+    git clone https://github.com/cardoso012/aps-6-semestre.git
+    cd aps-6-semestre
 ```
 Dentro da pasta e com Python 3.12 instalado, execute o seguinte comando para criar um ambiente virtual:
 ```python
