@@ -1,4 +1,4 @@
-# APS 6sem - Biometria utilizando algoritmo SIFT
+# APS 6sem - C.S.I Investigação Criminal
 
 ## Utilização
 
